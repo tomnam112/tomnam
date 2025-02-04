@@ -1,0 +1,7 @@
+C:\Users\TUF\Documents\GitHub\tomnam\tomnam\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\TUF\Documents\GitHub\tomnam\tomnam\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\TUF\Documents\GitHub\tomnam\tomnam\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\Documents\GitHub\tomnam\tomnam\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\TUF\Documents\GitHub\tomnam\tomnam\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\TUF\Documents\GitHub\tomnam\tomnam\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Documents\GitHub\tomnam\tomnam\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.sourcelink.json
